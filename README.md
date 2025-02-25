@@ -27,7 +27,7 @@ This project implements a chatbot using a fine-tuned **GPT-2 Transformer** model
 ## 📜 Installation & Setup
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/yourusername/gpt2-agriculture-chatbot.git](https://github.com/DimitriKwihangana/chatbot)
+   git clone https://github.com/DimitriKwihangana/chatbot
    cd chatbot
    ```
 2. **Install dependencies**:
